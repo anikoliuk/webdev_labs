@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(180, 180, 180);
+    color: rgb(120, 120, 120);
+}
+
+a{
+    color: rgb(139, 36, 36);   
+}
+
+h1, h2{
+    text-align: center;
+}

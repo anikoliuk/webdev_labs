@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(180, 180, 180);
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+.img_left{
+    float: left;
+    height: 20em;
+    margin: 20px;
+}
+
+.img_right{
+    float: right;
+    width: 15%;
+    height: 20em;
+}
+
+.light-gray {
+    color: #888;
+    font-weight: 500;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.blue-highlight {
+    color: blue;
+}
